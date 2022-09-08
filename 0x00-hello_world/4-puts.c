@@ -1,12 +1,15 @@
 /**
-*main - print the string in the put function
+*main -print the string in the put fuction
 *
 *Description: using the main function
-*this progress prints "programing is like building a multiligual puzzle"
+*this program prints "Programming is like building a multilingual puzzle
 *Return: 0
 */
 int main(void)
 {
-         puts("\""Programming is like building a multilingual puzzle");
-         Return (0);
+      puts("\"Programming is like building a multilingual puzzle");
+      return (0);
 }
+
+
+
