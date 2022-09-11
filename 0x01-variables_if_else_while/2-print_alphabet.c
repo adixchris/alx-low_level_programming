@@ -1,0 +1,20 @@
+#include <stdio.h>
+#include <stdlib.>
+#include <time.h>
+/**
+ * main -print if the number is positive, zero, or negative
+ *
+ * Description: using the main function
+ * this program prints "programing is positive, zero, or negative"
+ * Return: 0
+ */
+int main(void)
+{
+char ch;
+for (ch = 'a' ; ch <= 'z' ; ch++)
+{
+	putchar(ch);
+}
+purtchar('\n);
+return (0);
+}
