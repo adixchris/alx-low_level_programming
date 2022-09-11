@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- * main = all coode are found here
+ * main = Entry point
  *
  * Description: using the main fumction
- * this prgram prints "program is positive, zero, or negative"
+ * this prgram prints "program is positive, zero, or negative
  * Return: 0
  */
 int main(void)
