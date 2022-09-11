@@ -2,9 +2,9 @@
  #include <stdlib.h>
  #include <time.h>
  /**
-  * main - print if the number is positive, zero, or negative
+  * main - Entry point
   *
-  * Description: using the main function
+  * Description: This program will assign a random number to the variable n each time it is executed
   * this program prints "programing is positive, zero, or negative
   * Return: 0
   */
@@ -12,7 +12,6 @@ int main(void)
 {
 	int n;
 	int l;
-	char str[] = "last digit of";
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
