@@ -4,7 +4,7 @@
  /**
   * main - Entry point
   *
-  * Description: This program will assign a random number to the variable n each time it is executed
+  * Description: This assign a random number to n each time it is executed
   * this program prints "programing is positive, zero, or negative
   * Return: 0
   */
