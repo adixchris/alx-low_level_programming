@@ -5,7 +5,7 @@
   * main - Entry point
   *
   * Description: This assign a random number to n each time it is executed
-  * this program prints "programing is positive, zero, or negative
+  * this program prints "programing is positive, zero, or negative"
   * Return: 0
   */
 int main(void)
