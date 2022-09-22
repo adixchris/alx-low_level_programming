@@ -7,7 +7,7 @@
  * Return: address to the string
  */
 
-char *string_topper(char *str)
+char *string_toupper(char *str)
 {
 	int i = 0;
 
@@ -17,5 +17,5 @@ char *string_topper(char *str)
 			str[i] -= 32;
 		i++;
 	}
-	return(str);
+	return (str);
 }
