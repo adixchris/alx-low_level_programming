@@ -2,9 +2,8 @@
 
 /**
  * _memset - fills a memory block with a constant byte
- * @s: addressto memory block
+ * @s: address to memory block
  * @b: char to be used
- * @n: number of bytes to be uesd
  *
  * Return: pointer to the memory block
  */
