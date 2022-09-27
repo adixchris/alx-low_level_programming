@@ -4,7 +4,9 @@
  * _memset - fills a memory block with a constant byte
  * @s: addressto memory block
  * @b: char to be used
- * @n: number of bytes to be memory block
+ * @n: number of bytes to be uesd
+ *
+ * Return: pointer to the memory block
  */
 
 char *_memset(char *s, char b, unsigned int n)
