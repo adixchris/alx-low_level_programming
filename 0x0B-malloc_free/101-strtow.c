@@ -36,14 +36,14 @@ int num_words(char *str)
 		{
 			i++;
 		}
-		else if (((str[i] == ' ') || (str[i] != '\0'))
+		else if (((str[i] == ' ') || (str[i] != '\0'));
 		{
 			words += 1;
 			1++;
 		}
 		else
 		{
-			i++
+			i++;
 		}
 	}
 	return (words);
